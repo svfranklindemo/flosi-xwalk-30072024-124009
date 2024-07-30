@@ -1,7 +1,7 @@
 {
   "mappings": [
-    "/content/xsc-xwalk-site/:/",
-    "/content/xsc-xwalk-site/metadata.json:/metadata.json",
-    "/content/xsc-xwalk-site/redirects.json:/redirects.json"
+    "/content/flosi/flosi-2024-7-30-9-39-39/:/",
+    "/content/flosi/flosi-2024-7-30-9-39-39/metadata.json:/metadata.json",
+    "/content/flosi/flosi-2024-7-30-9-39-39/redirects.json:/redirects.json"
   ]
 }
